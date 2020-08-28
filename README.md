@@ -3,7 +3,7 @@
 Here is a list of free and premium icon libraries which I think are pretty awesome. Check them out and use them in your next project. :fire: 
 
 
-# Free Source
+# Free
 
 1. [Heroicons by tailwindcss team](https://heroicons.com)
 2. [Feathericons](https://feathericons.com)
